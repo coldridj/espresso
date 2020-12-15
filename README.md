@@ -1,4 +1,6 @@
-# ESPRESSO
+<img align="left" width="48" height="48" src="https://github.com/coldridj/espresso/raw/develop/src/espresso/Resources/EspressoIcon.ico" alt="espresso icon">
+
+# espresso 
 
 A shot of caffeine for your system.
 
