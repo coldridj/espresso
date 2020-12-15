@@ -1,4 +1,4 @@
-<img align="left" width="48" height="48" src="https://github.com/coldridj/espresso/raw/develop/src/espresso/Resources/EspressoIcon.ico" alt="espresso icon">
+<img align="left" width="64" height="64" src="https://github.com/coldridj/espresso/raw/develop/src/espresso/Resources/EspressoIcon.ico" alt="espresso icon">
 
 # espresso 
 
