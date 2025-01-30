@@ -4,4 +4,15 @@
 
 A shot of caffeine for your system.
 
-This periodically sends an F15 key event to the Windows API to prevent idle detection and screen timeout.
+This periodically sends a key event to the Windows API to prevent idle detection and screen timeout.
+
+An alternate keycode can be sent when a window belonging to an excluded process is in focus,
+these are configured in appsettings.json
+
+```json
+    "decaffinatedProcessNames": [
+        "WindowsTerminal",
+        "devenv",
+        "OpenConsole"
+    ]
+```
